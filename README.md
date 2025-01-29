@@ -1,3 +1,5 @@
+ABOUT ME
+
 Hi there! 👋
 
 I'm a frontend developer on my way to becoming a full-stack wizard. 🚀 With 20 years of experience as an auto-entrepreneur, I've built my own businesses, tackled challenges head-on, and learned that adaptability is key. My journey has taken me across different countries, immersing me in diverse cultures and languages—an experience that fuels both my coding and creative problem-solving skills.
