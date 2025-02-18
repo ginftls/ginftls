@@ -46,7 +46,7 @@ I am fluent in English, Spanish, French, and Portuguese, with some proficiency i
 
 Whether you're working on something cool or just want to chat about code, business, or football, I'm always up for a good conversation. Feel free to reach out!
 
-🔗 GitHub: [Your GitHub Handle]💼 LinkedIn: [Your LinkedIn]📧 Email: [Your Email]
+🔗 GitHub: ginftls 💼 LinkedIn: 📧 Email: 9970@holbertonstudents.com
 
 Looking forward to building something great together! ✨
 
